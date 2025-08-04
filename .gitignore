@@ -1,0 +1,31 @@
+.ipynb_checkpoints/
+# Data 폴더 제외
+data/
+*/data/
+**/data/
+
+output/
+learning_spark_data/
+*/data/
+**/data/
+
+
+# Jupyter 관련 임시 파일
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# 기타 임시 파일
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
