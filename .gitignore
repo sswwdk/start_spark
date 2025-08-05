@@ -8,6 +8,9 @@ output/
 learning_spark_data/
 */data/
 **/data/
+# 폴더
+**/spark-warehouse
+
 
 
 # Jupyter 관련 임시 파일
