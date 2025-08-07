@@ -141,4 +141,4 @@ predictions = pipeline_model.transform(test_data)
 
 ---
 
-> 본 프로젝트는 직원 이탈 예측을 통해 인적 자원 전략 수립에 도움을 주기 위한 분석입니다. 모델 성능을 향상시키기 위한 실험과 개선이 계속될 예정입니다.
+](https://github.com/sswwdk/start_spark/blob/main/MiniProject/09_Practice.ipynb)
