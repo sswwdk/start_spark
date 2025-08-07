@@ -1,4 +1,4 @@
-# 직원 퇴사(Attrition) 예측 모델링 프로젝트
+# 직원 퇴사(Attrition) 예측 모델링 프로젝트(09_Practice.ipynb)
 
 ## 1. 프로젝트 개요
 
@@ -140,3 +140,4 @@ predictions = pipeline_model.transform(test_data)
   * SMOTE 등 오버샘플링 기법 도입
 
 ---
+
